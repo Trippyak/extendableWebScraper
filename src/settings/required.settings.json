@@ -1,0 +1,13 @@
+{
+    "userSettings": "./user.settings.json"
+    , "timeScales": [
+        "millisecond"
+        , "second"
+        , "minute"
+        , "hour"
+    ]
+    , "parsers": [
+        "amazon"
+        , "newegg"
+    ]
+}

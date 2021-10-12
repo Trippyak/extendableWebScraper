@@ -1,0 +1,13 @@
+{
+    "pollTime": 1
+    , "cancelTime": 3
+    , "cancelTimeBuffer": 100
+    , "pollTimeScale": "second"
+    , "cancelTimeScale": "second"
+    , "links": [
+        {
+            "pageType": "amazon"
+            , "url": "https://www.amazon.com/AMD-Ryzen-5800X-16-Thread-Processor/dp/B0815XFSGK/ref=pd_bxgy_img_1/131-2165571-7721710?pd_rd_w=YSgD0&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=JHFAEGXNH76SP9PA07T3&pd_rd_r=7c0ddecc-4ed6-4932-aa2f-6d4d6f18f946&pd_rd_wg=8qCBb&pd_rd_i=B0815XFSGK&psc=1"
+        }
+    ]
+}
